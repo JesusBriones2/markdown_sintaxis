@@ -60,7 +60,7 @@ Al poner el mouse sobre el enlace muestra el title.
 
 [Ir a youtube](https://www.youtube.com "Enlace con title")
 ```
-* [Ir a youtube](https://www.youtube.com "Title")
+* [Ir a youtube](https://www.youtube.com "Enlace con title")
 
 .
 > # Citas.
